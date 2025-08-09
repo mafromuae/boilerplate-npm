@@ -1,6 +1,6 @@
 { 
-	"author": "Mohamed Saeed",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mohamed Saeed",
 	
 	"dependencies": {
 		"express": "^4.14.0"
